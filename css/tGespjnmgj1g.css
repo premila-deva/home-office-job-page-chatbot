@@ -1,0 +1,166 @@
+body, button, input, select, optgroup, textarea { font-family:Raleway }h1, h2, h3, h4, h5, h6, .main-navigation ul li a { font-family:Raleway }body,
+        .tab_tabs .tab.active,
+        article header h2 a,
+        article.post-listing span.posted-on a,
+        .relatedcontent h3 a,
+        .accordion-container.archive-accordion .ac .ac-q,
+        li.jobsrow a {
+            color:#191919 
+        }hr.wp-block-separator {
+                border-color:#191919
+        }.main-navigation {
+            background:#ffffff;
+        }footer.site-footer, #footer-top {
+            background: #ffffff 
+        }ul.accordion-container .ac .ac-q,
+        .jobsrow:hover a {
+            color:#ffffff 
+        }.ac-q .ac_arrows:after {
+            border-color: transparent#ffffff  #ffffff transparent;           
+        }.ac-q .ac_plusminus:after, .ac-q .ac_plusminus:before, a.ac-q:hover .ac_plusminus:before {
+            background-color: #ffffff ;          
+        }body {
+            color: #191919
+        }a,    
+    	.cta a,
+    	section.widget_categories ul li a,
+    	div.related_posts h4,
+    	ol li:before,
+    	.accordion-container.archive-accordion .ac.is-active a.ac-q,
+    	.accordion-container.archive-accordion a.ac-q:hover,
+        ul.accordion-container.colorReverse span.ac_panel-title,
+        .is-style-outline a.wp-block-button__link:not(.has-text-color) {
+            color: #191919
+        }.page-banner .banner-content h1,
+    	.page-links a:hover,
+    	.page-links .current,
+    	button,
+    	input[type='button'],
+    	input[type='reset'],
+    	input[type='submit'],    	 	
+    	.menu-mobile span,
+    	.menu-mobile span:before,
+    	.menu-mobile span:after,
+    	.ac.is-active a.ac-q,
+    	a.ac-q:hover,    	
+    	.page-heading h1,
+    	a#loadMore,
+    	.btn,
+    	ul li:before,
+    	ul.all-jobs li a,
+    	.glide__bullet:hover button,
+    	.glide__bullet:focus button,
+    	.glide__bullet--active button,
+    	.glide__controls .glide__arrow,
+    	.navigation-pagination li a:hover,
+        .menu-main-menu-container>ul>li.highlighted,
+        .ac>.ac-q,              
+        .nav-links span.page-numbers.current,
+        .nav-links a.page-numbers:hover,
+        .hamicon.ham-menu .line,
+        ul.accordion-container.colorReverse .ac .ac-q i,        
+        .glide__bullet.glide__bullet--active, .glide__bullet:hover {
+            background: #191919
+        }blockquote.is-style-fancy-quote:before, blockquote.is-style-fancy-reverse-quote {
+            background-color: #191919
+        }@media all and (min-width:768px) {
+            .navigation-pagination li.active a {
+                background: #191919
+            }
+            .navigation-pagination li:first-child a,
+            .navigation-pagination li:last-child a {
+                background: #191919
+            }
+        }input[type='text']:focus,
+    	input[type='email']:focus,
+    	input[type='url']:focus,
+    	input[type='password']:focus,
+    	input[type='search']:focus,
+	    input[type='number']:focus,
+     	input[type='tel']:focus,
+     	input[type='range']:focus,
+     	input[type='date']:focus,
+    	input[type='month']:focus,
+    	input[type='week']:focus,
+    	input[type='time']:focus,
+    	input[type='datetime']:focus,
+    	input[type='datetime-local']:focus,
+    	input[type='color']:focus,
+    	textarea:focus,
+    	select:focus,
+    	.cta a,
+    	ul.all-jobs,    	
+    	.tab_tabs .tab.active,	    
+	    .wp-block-column h3:after,
+        blockquote,
+        ul.accordion-container.colorReverse .ac .ac-q i,          
+        ul.accordion-container.colorReverse .ac .ac-q,            
+        .is-style-outline a,
+        .glide__bullet,
+        .glide__bullet.glide__bullet--active, .glide__bullet:hover{
+            border-color: #191919
+        }
+        .accordion-container.archive-accordion .ac-q:hover .ac_arrows:after,
+        .accordion-container.archive-accordion .ac.is-active .ac-q .ac_arrows:after {
+            border-color: transparent #191919 #191919 transparent;
+        }blockquote.is-style-fancy-quote {
+            background: #f5f5f5
+        }ul#breadcrumbs,
+        ul#breadcrumbs a,
+        .tab_tabs .tab,
+        main.single-post article.single-post .entry-meta,
+        main.single-post article.single-post .entry-meta a,
+        .cat-list a {
+            color: #191919
+        }h1, h2, h3, h4, h5, h6 {
+                color:#191919
+        }.cat-list a:after,
+        .accordion-container.archive-accordion .ac-a ul {
+            border-color: #191919
+        }blockquote.is-style-fancy-quote,
+    	.wp-block-button.disabled a,
+	    .related_posts, 
+	    ul.accordion-container .ac {
+            background: #f5f5f5
+        }.menu-main-menu-container>ul>li.highlighted:hover {
+                background:#191919;
+                border-color:#191919
+        }.wp-block-button.is-style-outline {
+                color:#191919;
+                border-color:#191919
+        }.screen-reader-text,
+        ul.accordion-container.colorReverse .ac .ac-q{
+            background-color: #ffffff
+        } header.site-header {
+            background:#ffffff 
+        }   button.tab.active,  button.tab.active:hover {
+            background-color: #f5f5f5!important;
+        } body {
+                font-size: 18px;                
+            } h2 {
+                font-size: 2.1rem;                
+            } h3 {
+                font-size: 1.6rem;                
+            }.ac.is-active .ac-q, .ac-q:hover, blockquote.is-style-fancy-reverse-quote:before {
+                background-color: #191919
+            }ul.footer-menu li a:hover, button#ot-sdk-btn:hover {
+                color: #191919
+            }ul li:before {
+                background: #191919;                
+            }ul li:before {                      
+                border-radius: 50%;
+            }footer.site-footer, #footer-top, footer.site-footer a, #footer-top a, button#ot-sdk-btn {
+            color: #191919 
+        }.s-icon a .icon-bg{
+            background-color: #191919 
+        }.external-link svg  {
+            stroke: #191919 
+        }.navigation-pagination li.active a  {
+            background-color: #191919 !important;
+        } ul.accordion-container.colorReverse .ac .ac-q {
+            background: #FFFFFF;
+            border: 2px solid #949494;
+        }
+        ul.accordion-container .ac{
+            background: #FFFFFF;
+        }
